@@ -1,5 +1,5 @@
 - A side project for working with Router. In this App you can add quotes and then navigate between them.
-- useParams, Route, Redirect
+- useParams, Route, Redirect, useHistory, Prompt Component.
 
 # Getting Started with Create React App
 
